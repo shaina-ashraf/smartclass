@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/smartclassroom';
+$config['base_url']	= 'https://smartclass.herokuapp.com/';
 
 /*
 |--------------------------------------------------------------------------
