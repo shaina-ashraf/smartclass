@@ -15,9 +15,9 @@
 
 // This can be removed if you use __autoload() in config.php OR use Modular Extensions
 require APPPATH.'/libraries/REST_Controller.php';
-require APPPATH.'/controllers/rooms.php';
-require APPPATH.'/controllers/timetable.php';
-require APPPATH.'/controllers/courses.php';
+//require APPPATH.'/controllers/rooms.php';
+//require APPPATH.'/controllers/timetable.php';
+//require APPPATH.'/controllers/courses.php';
 
 class Apiclass extends REST_Controller
 {
