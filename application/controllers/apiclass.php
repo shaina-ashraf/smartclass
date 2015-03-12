@@ -88,6 +88,7 @@ class Apiclass extends REST_Controller
         //$users = $this->some_model->getSomething( $this->get('limit') );
         $this->load->model('student_model');
         $students= $this->student_model->studentData();
+       echo "Students are".$students;
         if($students)
         {
             $this->response($students, 200); // 200 being the HTTP response code
