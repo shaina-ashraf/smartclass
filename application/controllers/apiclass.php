@@ -1,4 +1,5 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
+echo APPPATH;
 //http://localhost/attendanceapp/index.php/apiclass/students/format/json
 /**
  * Example
