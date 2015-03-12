@@ -1,5 +1,5 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
-echo APPPATH;
+
 //http://localhost/attendanceapp/index.php/apiclass/students/format/json
 /**
  * Example
@@ -24,6 +24,7 @@ class Apiclass extends REST_Controller
 {
 	function __construct()
     {
+        echo "REST controller";
         // Construct our parent class
         parent::__construct();
         
