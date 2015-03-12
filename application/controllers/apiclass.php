@@ -24,10 +24,10 @@ class Apiclass extends REST_Controller
 {
 	function __construct()
     {
-        echo "REST controller";
         // Construct our parent class
         parent::__construct();
-        
+        echo "REST controller";
+
         // Configure limits on our controller methods. Ensure
         // you have created the 'limits' table and enabled 'limits'
         // within application/config/rest.php
@@ -84,11 +84,11 @@ class Apiclass extends REST_Controller
     }
     
     function students_get(){
-
+        echo "Students are";
         //$users = $this->some_model->getSomething( $this->get('limit') );
         $this->load->model('student_model');
         $students= $this->student_model->studentData();
-       echo "Students are".$students;
+
         if($students)
         {
             $this->response($students, 200); // 200 being the HTTP response code
