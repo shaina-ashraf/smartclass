@@ -50,15 +50,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="metro.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/controllers/metro.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="26" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="289">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="dashboard.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/controllers/dashboard.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,16 +62,25 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="3111">
+            <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="21.461538" vertical-offset="575" max-vertical-offset="3111">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/config/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="2" selection-start="1374" selection-end="1374" vertical-scroll-proportion="0.44709897" vertical-offset="651" max-vertical-offset="6800">
+            <state line="7" column="28" selection-start="278" selection-end="278" vertical-scroll-proportion="-0.7254902" vertical-offset="82" max-vertical-offset="6800">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="85" selection-end="85" vertical-scroll-proportion="0.14825581" vertical-offset="0" max-vertical-offset="344">
               <folding />
             </state>
           </provider>
@@ -133,6 +133,7 @@
         <option value="$PROJECT_DIR$/application/controllers/student.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
       </list>
     </option>
   </component>
@@ -305,11 +306,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/views/include/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="77" selection-end="318" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="255" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/include/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="1044" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="408" />
@@ -397,14 +393,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="3111">
+        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="21.461538" vertical-offset="575" max-vertical-offset="3111">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/config/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="2" selection-start="1374" selection-end="1374" vertical-scroll-proportion="0.44709897" vertical-offset="651" max-vertical-offset="6800">
+        <state line="7" column="28" selection-start="278" selection-end="278" vertical-scroll-proportion="-0.7254902" vertical-offset="82" max-vertical-offset="6800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="85" selection-end="85" vertical-scroll-proportion="0.14825581" vertical-offset="0" max-vertical-offset="344">
           <folding />
         </state>
       </provider>
